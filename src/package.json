@@ -1,0 +1,27 @@
+{
+    "name": "electron-quick-start",
+    "version": "1.0.0",
+    "description": "A minimal Electron application",
+    "main": "main.js",
+    "scripts": {
+        "postinstall": "electron-builder install-app-deps",
+        "start": "yarn && electron .",
+        "dist": "electron-builder build",
+        "pack": "electron-builder build --dir"
+    },
+    "repository": "https://github.com/electron/electron-quick-start",
+    "build": {
+        "appId": "7Waves",
+        "win": {
+            "target": "NSIS"
+        }
+    },
+    "keywords": ["Electron", "quick", "start", "tutorial", "demo"],
+    "author": "GitHub",
+    "license": "CC0-1.0",
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "^9.0.5",
+        "electron-builder": "^22.7.0"
+    }
+}
