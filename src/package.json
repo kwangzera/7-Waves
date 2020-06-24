@@ -1,24 +1,25 @@
 {
     "name": "seven-waves",
     "version": "1.0.0",
-    "description": "A minimal Electron application",
+    "description": "A dodging game with 7 levels of increasing difficulty",
     "main": "main.js",
     "scripts": {
         "postinstall": "electron-builder install-app-deps",
         "start": "electron .",
         "dist": "electron-builder build"
     },
-    "repository": "https://github.com/electron/electron-quick-start",
+    "repository": "https://github.com/Togohogo1/7-Waves",
     "build": {
-        "appId": "7Waves",
+        "appId": "com.togohogo1.seven-waves",
         "win": {
             "target": "NSIS",
             "icon": "build/flag.ico"
         }
     },
-    "keywords": ["Electron", "quick", "start", "tutorial", "demo"],
-    "author": "GitHub",
-    "license": "MIT",
+    "keywords": [],
+    "author": "Kevin Wang",
+    "license": "CC0-1.0",
+    "dependencies": {},
     "devDependencies": {
         "electron": "^9.0.5",
         "electron-builder": "^22.7.0"
