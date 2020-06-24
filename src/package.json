@@ -5,9 +5,8 @@
     "main": "main.js",
     "scripts": {
         "postinstall": "electron-builder install-app-deps",
-        "start": "yarn && electron .",
-        "dist": "electron-builder build",
-        "pack": "electron-builder build --dir"
+        "start": "electron .",
+        "dist": "electron-builder build"
     },
     "repository": "https://github.com/electron/electron-quick-start",
     "build": {
@@ -20,7 +19,6 @@
     "keywords": ["Electron", "quick", "start", "tutorial", "demo"],
     "author": "GitHub",
     "license": "MIT",
-    "dependencies": {},
     "devDependencies": {
         "electron": "^9.0.5",
         "electron-builder": "^22.7.0"
