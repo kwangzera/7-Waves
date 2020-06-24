@@ -19,7 +19,7 @@
     },
     "keywords": ["Electron", "quick", "start", "tutorial", "demo"],
     "author": "GitHub",
-    "license": "CC0-1.0",
+    "license": "MIT",
     "dependencies": {},
     "devDependencies": {
         "electron": "^9.0.5",
