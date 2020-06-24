@@ -10,7 +10,7 @@
     },
     "repository": "https://github.com/Togohogo1/7-Waves",
     "build": {
-        "appId": "com.togohogo1.seven-waves",
+        "appId": "com.Togohogo1.seven-waves",
         "win": {
             "target": "NSIS",
             "icon": "build/flag.ico"
