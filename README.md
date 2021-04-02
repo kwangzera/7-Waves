@@ -13,9 +13,9 @@ There are many ways to convert a `.sb3` file to an `.html` file. This [nifty too
 Once downloaded, navigate to the installation directory and the following commands can be ran with the command prompt:
 ```bash
 # Install necessary dependencies
-> yarn install
+yarn install
 # Run the app
-> yarn start
+yarn start
 # Build the app into a .exe file
-> yarn dist
+yarn dist
 ```
