@@ -12,15 +12,15 @@ There are many ways to convert a `.sb3` file to an `.html` file. This [nifty too
 ### Usage
 Once downloaded, run the following command in the command prompt to install necessary dependencies:
 ```bash
-npm install
+> npm install
 ```
 
 After you can either run the app with:
 ```bash
-yarn start
+> yarn start
 ```
 
 Or build the app into an `.exe` file for windows:
 ```bash
-yarn dist
+> yarn dist
 ```
