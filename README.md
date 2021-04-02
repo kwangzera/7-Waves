@@ -10,7 +10,7 @@ Make sure that the following are installed:
 There are many ways to convert a `.sb3` file to an `.html` file. This [nifty tool](https://sheeptester.github.io/htmlifier/) gets the job done quite nicely.
 
 ### Usage
-Once downloaded, run the following command in the command prompt to install necessary dependencies and run the app respectively:
+Once downloaded, run the following command in the command prompt to install necessary dependencies:
 ```bash
 npm install
 ```
