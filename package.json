@@ -14,7 +14,7 @@
     "appId": "com.Togohogo1.seven-waves",
     "win": {
       "target": "NSIS",
-      "icon": "build/flag.ico"
+      "icon": "assets/flag.ico"
     },
     "nsis": {
       "allowToChangeInstallationDirectory": true,
