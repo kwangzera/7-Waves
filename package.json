@@ -5,7 +5,6 @@
   "description": "A dodging game with 7 levels of increasing difficulty",
   "main": "main.js",
   "scripts": {
-    "postinstall": "electron-builder install-app-deps",
     "start": "electron .",
     "dist": "electron-builder build"
   },

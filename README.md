@@ -10,17 +10,12 @@ Make sure that the following are installed:
 There are many ways to convert a `.sb3` file to an `.html` file. This [nifty tool](https://sheeptester.github.io/htmlifier/) gets the job done quite nicely.
 
 ### Usage
-Once downloaded, run the following command in the command prompt to install necessary dependencies:
+Once downloaded, the following commands can be run in the command prompt:
 ```bash
-> npm install
-```
-
-After you can either run the app with:
-```bash
+# Install necessary dependencies
+> yarn install
+# Run the app
 > yarn start
-```
-
-Or build the app into an `.exe` file:
-```bash
+# Build the app into a .exe file
 > yarn dist
 ```
