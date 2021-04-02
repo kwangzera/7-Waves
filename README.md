@@ -19,3 +19,6 @@ yarn start
 # Build the app into a .exe file
 yarn dist
 ```
+
+### Todo
+- Add a scratch link
