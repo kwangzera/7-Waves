@@ -20,7 +20,7 @@ After you can either run the app with:
 > yarn start
 ```
 
-Or build the app into an `.exe` file for windows:
+Or build the app into an `.exe` file:
 ```bash
 > yarn dist
 ```
