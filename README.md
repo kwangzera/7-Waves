@@ -10,7 +10,7 @@ Make sure that the following are installed:
 There are many ways to convert a `.sb3` file to an `.html` file. This [nifty tool](https://sheeptester.github.io/htmlifier/) gets the job done quite nicely.
 
 ### Usage
-Once downloaded, the following commands can be ran in the command prompt:
+Once downloaded, navigate to the installation directory and the following commands can be ran with the command prompt:
 ```bash
 # Install necessary dependencies
 > yarn install
