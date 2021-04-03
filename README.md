@@ -7,7 +7,7 @@ Make sure that the following are installed:
 - [yarn](https://yarnpkg.com/)
 
 ### Converting to HTML
-There are many tools online that can be used to convert a `.sb3` file to a `.html` file. [This one](https://sheeptester.github.io/htmlifier/) gets the job done quite nicely.
+There are many tools online that can be used to convert a `.sb3` file to a `.html` file. [This one](https://sysdl132.gitee.io/htmlifier/) gets the job done quite nicely.
 
 ### Usage
 Once downloaded, navigate to the installation directory and the following commands can be ran with the command prompt:
@@ -21,4 +21,4 @@ yarn dist
 ```
 
 ### Todo
-- Add a scratch link
+- Higher resolution 256x256 icon
