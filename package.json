@@ -1,7 +1,7 @@
 {
   "name": "seven-waves",
   "productName": "7 Waves",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A dodging game with 7 levels of increasing difficulty",
   "main": "main.js",
   "scripts": {

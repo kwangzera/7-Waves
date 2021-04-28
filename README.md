@@ -19,6 +19,3 @@ yarn start
 # Build the app into a .exe file
 yarn dist
 ```
-
-### Todo
-- Higher resolution 256x256 icon
